@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
   s.version          = '1.1'
   s.summary          = 'UI themes and components'
 
-  s.homepage         = 'https://github.com/horizontalsystems/component-kit-ios'
+  s.homepage         = 'https://github.com/kirill-panin/component-kit-ios'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Horizontal Systems' => 'hsdao@protonmail.ch' }
-  s.source           = { git: 'https://github.com/horizontalsystems/component-kit-ios.git', tag: "theme-kit-#{s.version}" }
+  s.source           = { git: 'https://github.com/kirill-panin/component-kit-ios.git', tag: "theme-kit-#{s.version}" }
   s.social_media_url = 'http://horizontalsystems.io/'
 
   s.ios.deployment_target = '13.0'
