@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ThemeKit.swift'
   s.module_name      = 'ThemeKit'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'UI themes and components'
 
   s.homepage         = 'https://github.com/horizontalsystems/component-kit-ios'
